@@ -6,9 +6,10 @@ function Rules() {
     <RulesContainer>
         <h2>How to play dice game</h2>
         <div className="text">
-            <p>Click on dice image</p>
-            <p>After click on dice if selected number is equal to dice number you will get same point as dice{" "}</p>
-            <p>If you get wrong guess then 2 point will be deducted</p>
+            <p>(1)Click on the above numbers first</p>
+            <p>(2)Now next Click on dice image</p>
+            <p>(3)After click on the dice if selected number is equal to dice number you will get same point as dice{" "}</p>
+            <p>(4)If you get wrong guess then 2 point will be deducted</p>
         </div>
 
     </RulesContainer>
