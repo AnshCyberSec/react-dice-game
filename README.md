@@ -11,8 +11,8 @@ This is a simple dice game built using React.
 
 ## 📸 Screenshots
 
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](project-3/image.png)
+![alt text](project-3/image-1.png)
 
 ## 🚀 How to Run
 
@@ -34,5 +34,5 @@ Styled-Components
 
 Vite
 
- Author
+ Author - 
 Anshuman Dlabehera
